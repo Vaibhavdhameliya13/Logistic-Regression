@@ -39,8 +39,6 @@ It contains information collected during **direct marketing campaigns of a Portu
 | job | Type of job |
 | marital | Marital status |
 | education | Education level |
-| balance | Average yearly account balance |
-| housing | Housing loan status |
 | loan | Personal loan status |
 | campaign | Number of contacts during campaign |
 
